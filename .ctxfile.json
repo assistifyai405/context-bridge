@@ -1,0 +1,6 @@
+{
+  "include": ["README.md", "LICENSE", "package.json", "UPSTREAM.json", "src/**", "tests/**", "scripts/**"],
+  "exclude": [".test-work/**", "examples/**", "self-test/**", "transfers/**", "runtime/**", "launcher*.json", "launcher*.log", "*.lnk"],
+  "tokenBudget": 10000,
+  "maxFileTokens": 1000
+}

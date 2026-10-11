@@ -1,0 +1,43 @@
+{
+  "handoffBinary": {
+    "binary_sha256": "d35b590b731300ac34a342ab4501d4bd0c65fcb6418009fd60690d236c61c3eb",
+    "archive_sha256": "07e1815885b5ef2e97510789bb2d35e3d4650a18f26e4d2395f9b8b74aa476bb",
+    "version": "0.17.0",
+    "source": "https://github.com/open-grove/handoff/releases/download/v0.17.0/handoff_windows_amd64.zip"
+  },
+  "integration": {
+    "name": "Context Bridge",
+    "license": "MIT",
+    "rea_used": false
+  },
+  "repositories": [
+    {
+      "name": "handoff",
+      "commit": "4bfda97b61816c82661ac350b8975cf44263312d",
+      "license": "Apache-2.0",
+      "url": "https://github.com/open-grove/handoff",
+      "modified": false
+    },
+    {
+      "name": "ctxfile",
+      "commit": "2cc59175d4daacfbaccdc3ca792099f6653db12f",
+      "license": "Apache-2.0",
+      "url": "https://github.com/ctxfile/ctxfile",
+      "modified": false
+    },
+    {
+      "name": "mex",
+      "commit": "72aa1fc4bb802f25e757dd0699472d377cbdf086",
+      "license": "MIT",
+      "url": "https://github.com/mex-memory/mex",
+      "modified": false
+    },
+    {
+      "name": "context-handoff-protocol",
+      "commit": "0303529ad8af79e46929ffe8f9efcf1e620f0a78",
+      "license": "Apache-2.0",
+      "url": "https://github.com/yufuche1/Context-Handoff-Protocol",
+      "modified": false
+    }
+  ]
+}
