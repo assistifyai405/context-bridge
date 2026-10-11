@@ -4,7 +4,7 @@ Continue a local Codex conversation in a new chat without rewriting project memo
 
 Context Bridge packages the available visible conversation, image assets and selected project context. It creates a new Codex chat, submits a handoff prompt, opens the chat and checks that its initial input was saved. The full transcript stays in local files that the destination agent can read.
 
-**Experimental, Windows only.** This is an independent community project. It is not an official OpenAI product and does not provide early access or free account benefits.
+**Experimental, Windows only.** This is an independent community project.
 
 ## Install
 
